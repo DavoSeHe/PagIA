@@ -1,5 +1,5 @@
 section {
-    height: 93vh;
+    height: 100vh;
     width: 100%;
     scroll-snap-align: start;
     display: flex;
@@ -52,8 +52,8 @@ section {
     }
 
     section {
-        height: auto;
-        width: 100vw;
+        /* height: auto; */
+        /* width: 100vw; */
     }
 }
 
